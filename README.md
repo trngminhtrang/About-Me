@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Trang but I usually go by Sophia
-- 👀 I’m interested in data analytics and data visualization with the focus on data science in the long run
-- 🌱 I’m currently a Business Analyst and self-taught Data Analust with knowledge in SQL, Python, Tableau and PowerBI
-- 💞️ I’m looking for opportunities in the Data Analytics field where I could improve my skillsets and use data-driven decision to make impacts
+👋 Hi there! I'm Sophia, also known as Trang.
+
+📊 I'm a passionate Data Analyst with a keen interest in data analytics and data visualization. My goal is to delve deeper into data science as my career progresses.
+
+🛠 I specialize in SQL, Python, Power BI, and Tableau, leveraging these tools to transform data into actionable insights.
+
+🌟 I'm excited about opportunities in the Data Analytics field where I can apply data-driven decision-making to drive impactful results. Let's connect and explore the power of data together!
 
 <!---
 trngminhtrang/trngminhtrang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
